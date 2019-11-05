@@ -1,0 +1,6 @@
+Credentials cache: API:ACCBAA95-2E71-4786-9FB2-6690E22D6159
+        Principal: vgoldman@42.FR
+
+  Issued                Expires               Principal
+Jul  1 13:52:40 2019  Jul  8 13:52:40 2019  krbtgt/42.FR@42.FR
+Jul  1 15:14:16 2019  Jul  8 13:52:40 2019  host/vgs-fn1.42.fr@42.FR
